@@ -121,6 +121,11 @@ Once the ESP8266 is connected to WiFi, you can upload code over-the-air via Ardu
 - Upload normally
 
 ---
+## Reference Circuit Diagram of connections 
+
+![reference](https://github.com/user-attachments/assets/87162e29-9b51-4ed7-862a-8fae200c3bf4)
+
+
 
 
 ## 🏁 Final Output
